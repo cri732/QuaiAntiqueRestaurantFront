@@ -12016,6 +12016,10 @@ p {
   justify-content: center;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 footer.footer {
   padding: 15px;
   position: absolute;
