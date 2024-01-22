@@ -27,6 +27,8 @@ footer.footer{
 // STYLES ACCUEIL
 .hero-scene{
 	position: relative;
+	margin-bottom: 15px;
+
 	&::before{
 		content: "";
 		position: absolute;
@@ -81,6 +83,12 @@ footer.footer{
 		opacity: 0;
 		transition: all 0.5s;
 	}
+}
+
+
+// STYLES Connexion
+.form-label{
+	color: $primary;
 }
 
 
